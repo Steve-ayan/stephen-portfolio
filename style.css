@@ -1,0 +1,107 @@
+/* General Page Style */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Style */
+h1 {
+  background-color: #1f2937;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin: 0;
+}
+
+/* Paragraph Styling */
+p {
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+}
+/* General Page Style */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Style */
+header {
+  background-color: #1f2937;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Section Container Style */
+section {
+  background-color: white;
+  margin: 20px auto;
+  padding: 20px;
+  width: 90%;
+  max-width: 800px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Section Titles */
+h2 {
+  text-align: center;
+  color: #1f2937;
+}
+
+/* List Style */
+ul {
+  list-style-type: square;
+  padding-left: 30px;
+  font-size: 18px;
+}
+/* Interests List Style (optional improvement) */
+#interests ul li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+/* Project Links */
+#projects a {
+  color: #2563eb;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#projects a:hover {
+  text-decoration: underline;
+}
+/* Contact Form Styling */
+form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #2563eb;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #1d4ed8;
+}
